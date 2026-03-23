@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Amazon Homepage Automation Suite" verbose="1">
+    <test name="Amazon Homepage Tests">
+        <classes>
+            <class name="com.example.amazon.tests.AmazonHomePageTest" />
+        </classes>
+    </test>
+</suite>

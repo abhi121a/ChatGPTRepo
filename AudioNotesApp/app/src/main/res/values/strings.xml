@@ -1,12 +1,3 @@
 <resources>
     <string name="app_name">Audio Notes</string>
-    <string name="title">Audio Notes Notepad</string>
-    <string name="record_note">Record Audio Note</string>
-    <string name="clear_notes">Clear Notes</string>
-    <string name="empty_notes">No notes yet. Tap \"Record Audio Note\" and speak.</string>
-    <string name="speak_prompt">Speak your note...</string>
-    <string name="speech_not_supported">Speech recognition is not available on this device.</string>
-    <string name="microphone_permission_required">Microphone permission is required to record notes.</string>
-    <string name="no_speech_detected">No speech detected. Please try again.</string>
-    <string name="notes_cleared">All notes cleared.</string>
 </resources>
